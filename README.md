@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📖 Currently studying embedded systems in Tampere University master's programme. Nearly graduated.
+
 <!--
 **pamputtaja/pamputtaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
