@@ -2,6 +2,9 @@
 
 📖 Currently studying embedded systems in Tampere University master's programme. Nearly graduated.
 
+School projects
+https://github.com/pamputtaja/school-projects
+
 <!--
 **pamputtaja/pamputtaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
