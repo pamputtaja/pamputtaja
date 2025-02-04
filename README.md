@@ -5,7 +5,8 @@
 School projects: \
 https://github.com/pamputtaja/school-projects \
 \
-Hobby projects:
+Hobby projects: \
+https://github.com/pamputtaja/vlc-channel-server
 
 <!--
 **pamputtaja/pamputtaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
